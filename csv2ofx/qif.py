@@ -45,6 +45,7 @@ class QIF(Content):
         """
         super(QIF, self).__init__(mapping, **kwargs)
         self.def_type = kwargs.get("def_type")
+        self.sourceFile = kwargs.get("source")
         self.prev_account = None
         self.prev_group = None
         self.account_types = {

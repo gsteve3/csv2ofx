@@ -1,0 +1,146 @@
+// source:
+// /web/v1.1/payment/v1.0/order
+{
+	"paymentOrders": [
+		{
+			"paymentOrder": {
+				"paymentOrderType": "ETRANSFER",
+				"paymentOrderSubtype": "OUTGOING",
+				"paymentOrderTransferNumber": "CAen7mzy",
+				"paymentOrderAmount": 2000,
+				"paymentOrderCurrencyCode": "CAD",
+				"paymentOrderExpiryDate": "2022-04-14T18:46:12.000Z",
+				"paymentOrderStatus": "COMPLETED",
+				"paymentOrderExtStatus": "DEPOSITED",
+				"paymentOrderMemo": "pay",
+				"paymentOrderTransferType": "DIRECT_DEPOSIT",
+				"paymentOrderTransactionDate": "2022-03-15T18:46:16.000Z"
+
+				// `/docs/eqbank/transaction-recent.example.json:21`
+				// ```json
+				// 			"dateTime": "2022-03-15T18:46:00Z"
+				// ```
+				// SOOOO... We can go minute and seconds, just not milliseconds
+				// to match transactions!
+
+			},
+			"paymentBeneficiary": [
+				{
+					"beneficiarySubType": "RECIPIENT",
+					"beneficiaryId": "CAsGDEP43Cns",
+					"beneficiaryName": "Greg",
+					"notificationPreferences": [
+						{
+							"notificationHandleType": "EMAIL",
+							"notificationHandle": "greg@stevens.pro",
+							"active": true
+						}
+					]
+				}
+			],
+			"accountInformation": {
+				"accountHolderName": "Greg Stevens",
+				"accountNumber": "101769844"
+			}
+		},
+		{
+			"paymentOrder": {
+				"paymentOrderType": "ETRANSFER",
+				"paymentOrderSubtype": "OUTGOING",
+				"paymentOrderTransferNumber": "CAVh6jsK",
+				"paymentOrderAmount": 500,
+				"paymentOrderCurrencyCode": "CAD",
+				"paymentOrderExpiryDate": "2022-04-09T04:31:18.000Z",
+				"paymentOrderStatus": "COMPLETED",
+				"paymentOrderExtStatus": "DEPOSITED",
+				"paymentOrderTransferType": "DIRECT_DEPOSIT",
+				"paymentOrderTransactionDate": "2022-03-10T05:31:22.000Z"
+			},
+			"paymentBeneficiary": [
+				{
+					"beneficiarySubType": "RECIPIENT",
+					"beneficiaryId": "CAsGDEP43Cns",
+					"beneficiaryName": "Greg",
+					"notificationPreferences": [
+						{
+							"notificationHandleType": "EMAIL",
+							"notificationHandle": "greg@stevens.pro",
+							"active": true
+						}
+					]
+				}
+			],
+			"accountInformation": {
+				"accountHolderName": "Greg Stevens",
+				"accountNumber": "101372782"
+			}
+		},
+		{
+			"paymentOrder": {
+				"paymentOrderType": "ETRANSFER",
+				"paymentOrderSubtype": "OUTGOING",
+				"paymentOrderTransferNumber": "CAMvPGV4",
+				"paymentOrderAmount": 500,
+				"paymentOrderCurrencyCode": "CAD",
+				"paymentOrderExpiryDate": "2022-04-04T01:50:07.000Z",
+				"paymentOrderStatus": "COMPLETED",
+				"paymentOrderExtStatus": "DEPOSITED",
+				"paymentOrderMemo": "Hope it helps out in Sask. Gift. No payback necessary.",
+				"paymentOrderTransferType": "DIRECT_DEPOSIT",
+				"paymentOrderTransactionDate": "2022-03-05T02:50:11.000Z",
+				"paymentOrderTransactionNote": "Test personal note."
+			},
+			"paymentBeneficiary": [
+				{
+					"beneficiarySubType": "RECIPIENT",
+					"beneficiaryId": "CAAFT2erMftJ",
+					"beneficiaryName": "Barb Stevens",
+					"notificationPreferences": [
+						{
+							"notificationHandleType": "EMAIL",
+							"notificationHandle": "barb@stevens.pro",
+							"active": true
+						}
+					]
+				}
+			],
+			"accountInformation": {
+				"accountHolderName": "Greg Stevens",
+				"accountNumber": "101372782"
+			}
+		},
+		{
+			"paymentOrder": {
+				"paymentOrderType": "ETRANSFER",
+				"paymentOrderSubtype": "OUTGOING",
+				"paymentOrderTransferNumber": "CAqEHGfz",
+				"paymentOrderAmount": 500,
+				"paymentOrderCurrencyCode": "CAD",
+				"paymentOrderExpiryDate": "2022-03-30T20:43:29.000Z",
+				"paymentOrderStatus": "COMPLETED",
+				"paymentOrderExtStatus": "DEPOSITED",
+				"paymentOrderMemo": "Lucas.  March.",
+				"paymentOrderTransferType": "DIRECT_DEPOSIT",
+				"paymentOrderTransactionDate": "2022-02-28T21:43:32.000Z"
+			},
+			"paymentBeneficiary": [
+				{
+					"beneficiarySubType": "RECIPIENT",
+					"beneficiaryId": "CAfYzbrHPkPC",
+					"beneficiaryName": "CG",
+					"notificationPreferences": [
+						{
+							"notificationHandleType": "EMAIL",
+							"notificationHandle": "c_goodon@hotmail.com",
+							"active": true
+						}
+					]
+				}
+			],
+			"accountInformation": {
+				"accountHolderName": "Greg",
+				"accountNumber": "101372782"
+			}
+		}
+	]
+}

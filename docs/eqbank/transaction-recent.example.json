@@ -1,0 +1,454 @@
+{
+	"transactions": [
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "15 MAR 2022",
+			"amount": 800,
+			"balance": 5285.18,
+			"lockedAmount": null,
+			"description": "Payment to  CAPITAL ONE MASTERCARD",
+			"dateTime": "2022-03-15T18:47:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "15 MAR 2022",
+			"amount": 2000,
+			"balance": 6085.18,
+			"lockedAmount": null,
+			"description": "Interac e-Transfer sent",
+			"dateTime": "2022-03-15T18:46:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "15 MAR 2022",
+			"amount": 5000,
+			"balance": 8085.18,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2022-03-15T18:45:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "14 MAR 2022",
+			"amount": 9639,
+			"balance": 13085.18,
+			"lockedAmount": null,
+			"description": "Direct deposit from CDW CANADA ET",
+			"dateTime": "2022-03-14T11:24:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "04 MAR 2022",
+			"amount": 1000,
+			"balance": 3446.18,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2022-03-05T01:46:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 MAR 2022",
+			"amount": 9.02,
+			"balance": 4446.18,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2022-03-01T05:34:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "23 FEB 2022",
+			"amount": 800,
+			"balance": 4437.16,
+			"lockedAmount": null,
+			"description": "Payment to  CAPITAL ONE MASTERCARD",
+			"dateTime": "2022-02-23T17:21:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "23 FEB 2022",
+			"amount": 1273.94,
+			"balance": 5237.16,
+			"lockedAmount": null,
+			"description": "Payment to  CAPITAL ONE MASTERCARD",
+			"dateTime": "2022-02-23T17:21:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "22 FEB 2022",
+			"amount": 3000,
+			"balance": 6511.1,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101523357",
+			"dateTime": "2022-02-23T00:50:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "14 FEB 2022",
+			"amount": 2500,
+			"balance": 9511.1,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101572463",
+			"dateTime": "2022-02-14T23:14:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "14 FEB 2022",
+			"amount": 2000,
+			"balance": 12011.1,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2022-02-14T23:12:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "14 FEB 2022",
+			"amount": 4914,
+			"balance": 14011.1,
+			"lockedAmount": null,
+			"description": "Direct deposit from CDW CANADA ET",
+			"dateTime": "2022-02-14T11:24:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "10 FEB 2022",
+			"amount": 4000,
+			"balance": 9097.1,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2022-02-10T23:33:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 FEB 2022",
+			"amount": 12.2,
+			"balance": 13097.1,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2022-02-01T05:43:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "29 JAN 2022",
+			"amount": 4000,
+			"balance": 13084.9,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2022-01-30T03:33:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "28 JAN 2022",
+			"amount": 7182,
+			"balance": 17084.9,
+			"lockedAmount": null,
+			"description": "Direct deposit from CDW CANADA ET",
+			"dateTime": "2022-01-28T11:26:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "24 JAN 2022",
+			"amount": 3000,
+			"balance": 9902.9,
+			"lockedAmount": null,
+			"description": "Payment to  CAPITAL ONE MASTERCARD",
+			"dateTime": "2022-01-24T21:16:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "17 JAN 2022",
+			"amount": 4866.75,
+			"balance": 12902.9,
+			"lockedAmount": null,
+			"description": "Direct deposit from CDW CANADA ET",
+			"dateTime": "2022-01-17T11:22:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "08 JAN 2022",
+			"amount": 2000,
+			"balance": 8036.15,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2022-01-08T21:38:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "08 JAN 2022",
+			"amount": 2000,
+			"balance": 10036.15,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2022-01-08T21:36:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "05 JAN 2022",
+			"amount": 1500,
+			"balance": 12036.15,
+			"lockedAmount": null,
+			"description": "Payment to  SERVUS MASTERCARD",
+			"dateTime": "2022-01-05T16:50:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "05 JAN 2022",
+			"amount": 1830.8,
+			"balance": 13536.15,
+			"lockedAmount": null,
+			"description": "Payment to  CAPITAL ONE MASTERCARD",
+			"dateTime": "2022-01-05T16:42:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 JAN 2022",
+			"amount": 0.85,
+			"balance": 15366.95,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2022-01-01T05:30:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "31 DEC 2021",
+			"amount": 3000,
+			"balance": 15366.1,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101572463",
+			"dateTime": "2021-12-31T14:09:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "31 DEC 2021",
+			"amount": 8000,
+			"balance": 18366.1,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2021-12-31T13:52:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "31 DEC 2021",
+			"amount": 26365.51,
+			"balance": 26366.1,
+			"lockedAmount": null,
+			"description": "Direct deposit from CDW CANADA ET",
+			"dateTime": "2021-12-31T11:27:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "27 DEC 2021",
+			"amount": 175,
+			"balance": 0.59,
+			"lockedAmount": null,
+			"description": "Interac e-Transfer sent",
+			"dateTime": "2021-12-27T22:11:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "08 DEC 2021",
+			"amount": 700,
+			"balance": 175.59,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2021-12-08T20:49:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 DEC 2021",
+			"amount": 0.9,
+			"balance": 875.59,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2021-12-01T05:24:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "27 NOV 2021",
+			"amount": 800,
+			"balance": 874.69,
+			"lockedAmount": null,
+			"description": "Payment to  CAPITAL ONE SECURITY FUNDS",
+			"dateTime": "2021-11-28T00:57:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "19 NOV 2021",
+			"amount": 1500,
+			"balance": 1674.69,
+			"lockedAmount": null,
+			"description": "Interac e-Transfer sent",
+			"dateTime": "2021-11-19T23:47:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "17 NOV 2021",
+			"amount": 1500,
+			"balance": 3174.69,
+			"lockedAmount": null,
+			"description": "Interac e-Transfer sent",
+			"dateTime": "2021-11-17T22:15:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "17 NOV 2021",
+			"amount": 1500,
+			"balance": 1674.69,
+			"lockedAmount": null,
+			"description": "Interac e-Transfer sent",
+			"dateTime": "2021-11-17T22:15:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "16 NOV 2021",
+			"amount": 8000,
+			"balance": 3174.69,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101372782",
+			"dateTime": "2021-11-17T00:36:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "16 NOV 2021",
+			"amount": 11174.63,
+			"balance": 11174.69,
+			"lockedAmount": null,
+			"description": "Direct deposit from CDW CANADA ET",
+			"dateTime": "2021-11-16T11:24:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 NOV 2021",
+			"amount": 0.06,
+			"balance": 0.06,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2021-11-01T05:24:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "09 OCT 2021",
+			"amount": 201.87,
+			"balance": 0,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101523357",
+			"dateTime": "2021-10-09T21:51:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 OCT 2021",
+			"amount": 0.21,
+			"balance": 201.87,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2021-10-01T04:41:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 SEP 2021",
+			"amount": 0.21,
+			"balance": 201.66,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2021-09-01T05:16:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 AUG 2021",
+			"amount": 0.21,
+			"balance": 201.45,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2021-08-01T04:39:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 JUL 2021",
+			"amount": 0.21,
+			"balance": 201.24,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2021-07-01T04:30:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 JUN 2021",
+			"amount": 0.21,
+			"balance": 201.03,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2021-06-01T04:57:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 MAY 2021",
+			"amount": 0.23,
+			"balance": 200.82,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2021-05-01T05:42:00Z"
+		},
+		{
+			"type": "CREDIT",
+			"accountId": "101769844",
+			"date": "01 APR 2021",
+			"amount": 0.59,
+			"balance": 200.59,
+			"lockedAmount": null,
+			"description": "Interest received",
+			"dateTime": "2021-04-01T04:14:00Z"
+		},
+		{
+			"type": "DEBIT",
+			"accountId": "101769844",
+			"date": "31 MAR 2021",
+			"amount": 271.12,
+			"balance": 200,
+			"lockedAmount": null,
+			"description": "Transfer from  101769844  to  101688477",
+			"dateTime": "2021-03-31T13:51:00Z"
+		}
+	]
+}

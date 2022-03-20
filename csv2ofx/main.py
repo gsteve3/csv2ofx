@@ -181,6 +181,7 @@ def run():  # noqa: C901
         "def_type": args.account_type or "Bank" if args.qif else "CHECKING",
         "start": parse(args.start) if args.start else None,
         "end": parse(args.end) if args.end else None,
+        "source": args.source,
     }
 
     cont = QIF(mapping, **okwargs) if args.qif else OFX(mapping, **okwargs)
